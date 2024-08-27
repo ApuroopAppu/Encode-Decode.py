@@ -9,7 +9,7 @@ root.resizable(0,0)
 root.title("Message Encode and Decode")
 
 Label(root, text ='ENCODE DECODE', font = 'arial 20 bold').pack()
-Label(root, text ='KAMAL', font = 'arial 20 bold').pack(side =BOTTOM)
+Label(root, text ='APUROOP', font = 'arial 20 bold').pack(side =BOTTOM)
 
 Text = StringVar()
 private_key = StringVar()
